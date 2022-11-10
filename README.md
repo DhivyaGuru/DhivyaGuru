@@ -48,13 +48,10 @@
        <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img
       src="https://img.icons8.com/fluency/512/spyder-ide.png" alt="spyder"
       width="40" height="40" /> </a> 
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhivyaGuru&label=Profile%20views&color=0e75b6&style=flat" alt="Dhivya-Guru" /> </p>
 
 <br>
-
-<h3>Statistical Data :-</h3>
+    
+## <h3 align="left">Statistical Data:</h3>
 
 <br>
 
@@ -64,4 +61,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaGuru&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DhivyaGuru" /></p>
-     
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhivyaGuru&label=Profile%20views&color=0e75b6&style=flat" alt="Dhivya-Guru" /> </p>
+
