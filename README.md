@@ -1,7 +1,7 @@
 <p align="center">
     <img width="1500",height="400" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png">
 </p>
-<h1 align="center">Hi 👋, I'm Dhivya </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai">, I'm Dhivya <img height="32px" width="32px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/oNJ0xlQh2d0AAAAi/butterfly-blue-butterfly.gif"></h1> </h1>
 
 <br>
 <br>
@@ -12,11 +12,11 @@
 - 🌱 I’m currently learning *javascript*
 - 💬 Ask me about *c,c++, JavaScript and MySQL*
 - 📫 How to reach me "dhivyagurusamy003@gmail.com"
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Interesting fact :- The best place in the world to see rainbows is in Hawaii🌈
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://https://www.linkedin.com/in/dhivya-gurusamy-680487255/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -28,15 +28,16 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-     <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      <a href="https://www.cprogramming.com/" target="_blank"
+      rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c" width="40" height="40" /> </a> 
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a>   
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -48,3 +49,6 @@
       src="https://img.icons8.com/fluency/512/spyder-ide.png" alt="spyder"
       width="40" height="40" /> </a> 
 <br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthika-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="karthika-senthilkumar" /> </p>
+
