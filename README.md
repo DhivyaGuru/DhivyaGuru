@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning *javascript*
--💬 Ask me about * c,c++, JavaScript and MySQL*
+- 💬 Ask me about *c,c++, JavaScript and MySQL*
 - 📫 How to reach me "dhivyagurusamy003@gmail.com"
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
